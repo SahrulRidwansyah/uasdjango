@@ -1,5 +1,5 @@
 # UAS DJANGO
-## Pameran Design Berbasis Web (statis) 
+## Pameran Design Arsitektur Berbasis Web (statis) 
 
 ```
 Raja Happyanto (ketua) / 312210235
